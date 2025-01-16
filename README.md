@@ -1,10 +1,10 @@
-# Hasil Tugas Besar 1 Pemrograman Web Enterprise
+# Hasil Tugas Besar 2 Pengantar Data Mining 
 
-## 1. Tampilan Pada Menu Homepage
-Desain homepage yang bersih dan sederhana, memberikan pengguna navigasi yang mudah dan cepat untuk mengakses fitur-fitur utama.
+## 1. Data Yang Digunakan
+Data yang digunakan berasal dari kuesioner yang disebar dengan 137 pengisi, yang terdiri dari 11 coloms.
 
 <div align="center">
-  <img src= "https://github.com/user-attachments/assets/6db0de73-9927-444d-a4fb-26e25d6f4ac9" alt="Tampilan Pada Menu Homepage" width="600">
+  <img src=" https://github.com/user-attachments/assets/ff633da8-c80a-45f6-9fa9-782053e7631c)" alt="Tampilan Data" width="600">
 </div>
 
 ---
